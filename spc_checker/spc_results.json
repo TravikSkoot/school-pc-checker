@@ -1,0 +1,24 @@
+{
+    "B1.11_Reihe1_Platz1": {
+        "Raum": "B1.11",
+        "Reihe": "1",
+        "Platz": "1",
+        "Testergebnis": "Geeignet",
+        "Details": "PC erfüllt alle Anforderungen",
+        "Zeitstempel": "2024-12-02 12:45:00",
+        "Systeminfo": {
+            "Betriebssystem": "Windows 10 Pro Professional",
+            "Version": "10.0.22635",
+            "Prozessor": "13th Gen Intel(R) Core(TM) i7-13700K @ 3.40 GHz",
+            "Arbeitsspeicher": 32,
+            "Freier Speicherplatz": 367,
+            "GPUs": [
+                {
+                    "Name": "NVIDIA GeForce RTX 3080",
+                    "VRAM": 10,
+                    "Treiberversion": "32.0.15.6614"
+                }
+            ]
+        }
+    }
+}

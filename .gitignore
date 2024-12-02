@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# PyCharm
+.idea/
+
+# PyInstaller Build Cache
+spc_checker/build
+spc_checker/SPC.spec
